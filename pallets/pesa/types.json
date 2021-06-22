@@ -1,0 +1,6 @@
+{
+  "Phone": {
+    "field": "[u8; 16]",
+    "secondField": "[u8; 3]"
+  }
+}
